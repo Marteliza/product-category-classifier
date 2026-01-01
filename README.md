@@ -46,7 +46,7 @@ Acest proiect dezvoltă un model ML care poate prezice categoria unui produs doa
 - matplotlib, seaborn
 
 ##  Structura Proiectului
-
+```
 product-category-classifier/
 ├── notebooks/
 │   └── 01_explorare_date.ipynb    # Notebook complet cu analiza și antrenare
@@ -55,6 +55,7 @@ product-category-classifier/
 ├── data/
 │   └── IMLP4_TASK_03-products.csv # Dataset original
 └── README.md
+```
 
 ##  Cum Rulezi Proiectul
 
