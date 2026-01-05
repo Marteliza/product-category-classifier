@@ -105,11 +105,33 @@ jupyter notebook notebooks/01_explorare_date.ipynb
 - Brandurile detectate: samsung, apple, sony, lg, bosch, canon, hp
 - TF-IDF a identificat automat cuvinte-cheie relevante pentru fiecare categorie
 
+##  Utilizare Scripturi Python
+
+### Antrenare Model
+```bash
+cd product-category-classifier
+python scripts/train_model.py
+```
+
+### Testare Interactiva
+```bash
+python scripts/predict_category.py
+```
+
+**Exemplu:**
+```
+ Titlu produs: iphone 13 pro 256gb
+ Categorie prezisa: Mobile Phones
+ Incredere: 98.5%
+```
+```
+
+
 ##  Autor
 
 **Marteliza**  
 Proiect dezvoltat ca parte a cursului de Data Science & Machine Learning
 
-## 📅 Data
+##  Data
 
 Ianuarie 2026
