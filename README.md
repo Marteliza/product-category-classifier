@@ -124,7 +124,6 @@ python scripts/predict_category.py
  Categorie prezisa: Mobile Phones
  Incredere: 98.5%
 ```
-```
 
 
 ##  Autor
